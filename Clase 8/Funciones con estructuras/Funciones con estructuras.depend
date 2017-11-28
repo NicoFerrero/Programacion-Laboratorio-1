@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1505392602 source:e:\clase 8\funciones con estructuras\medicamentos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"medicamentos.h"
+
+1505395256 e:\clase 8\funciones con estructuras\medicamentos.h
+
+1505395256 source:e:\clase 8\funciones con estructuras\main.c
+	<stdio.h>
+	<stdlib.h>
+	"medicamentos.h"
+

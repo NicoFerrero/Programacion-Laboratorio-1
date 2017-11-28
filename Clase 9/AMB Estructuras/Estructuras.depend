@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1505393871 source:c:\users\alumno\desktop\estructuras\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Medicamentos.h"
+
+1505393672 c:\users\alumno\desktop\estructuras\medicamentos.h
+
+1505391990 source:c:\users\alumno\desktop\estructuras\medicamentos.c
+	<stdio.h>
+	"Medicamentos.h"
+
+1506646878 source:e:\clase 9\amb estructuras\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Medicamentos.h"
+
+1505478758 e:\clase 9\amb estructuras\medicamentos.h
+
+1505478476 source:e:\clase 9\amb estructuras\medicamentos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"Medicamentos.h"
+

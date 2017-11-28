@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1506601084 source:e:\clase 10\abm relacional\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"farmacia.h"
+
+1506601596 source:e:\clase 10\abm relacional\farmacia.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"farmacia.h"
+
+1506601792 e:\clase 10\abm relacional\farmacia.h
+
+1506602526 source:e:\clase 10\abm relacional v1\farmacia.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"farmacia.h"
+
+1506601792 e:\clase 10\abm relacional v1\farmacia.h
+
+1506601084 source:e:\clase 10\abm relacional v1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"farmacia.h"
+
