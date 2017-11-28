@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1507294696 source:d:\punteros 1\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1507300700 source:e:\clase 15\punteros 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
