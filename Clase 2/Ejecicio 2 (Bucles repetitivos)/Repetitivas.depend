@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1503069704 source:c:\users\alumno\desktop\repetitivas\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+
+1503087814 source:e:\clase 2\ejecicio 2 (bucles repetitivos)\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<ctype.h>
+
