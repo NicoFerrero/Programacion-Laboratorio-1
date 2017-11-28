@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1504192416 source:c:\users\alumno\desktop\floor\casteo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

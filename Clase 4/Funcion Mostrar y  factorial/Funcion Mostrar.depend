@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1503670341 source:d:\funcion mostrar\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Biblioteca.h"
+
+1503670230 d:\funcion mostrar\biblioteca.h
+
+1503670258 source:d:\funcion mostrar\biblioteca.c
+	<stdio.h>
+	<stdlib.h>
+	"Biblioteca.h"
+
